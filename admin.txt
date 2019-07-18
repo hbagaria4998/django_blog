@@ -1,2 +1,0 @@
-un = hbagaria
-pw = 1234567890
